@@ -7,6 +7,6 @@ namespace tools
 {
 std::shared_ptr<spdlog::logger> logger();
 
-}  // namespace tools
+}  // namespace too
 
 #endif  // TOOLS__LOGGER_HPP
