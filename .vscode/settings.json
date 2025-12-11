@@ -70,6 +70,16 @@
         "array": "cpp",
         "deque": "cpp",
         "ranges": "cpp",
-        "span": "cpp"
+        "span": "cpp",
+        "codecvt": "cpp",
+        "cwctype": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "numbers": "cpp",
+        "semaphore": "cpp",
+        "text_encoding": "cpp",
+        "variant": "cpp"
     }
 }
